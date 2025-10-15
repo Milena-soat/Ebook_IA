@@ -1,0 +1,19 @@
+Chat me ajuda, crie um ebook sobre Front-End, destinado a iniciantes.
+
+Tema principal - Tudo o que você precisa saber para começar em Front-End.
+
+REGRAS:
+
+Tópicos - Apenas 5 tópicos, cada um com máximo de 20 linhas.
+
+Inspiração feminina - Cada tópico deve mencionar uma mulher conhecida da área, suas dificuldades e conquistas, como forma de inspiração. Exemplo: "Por que Front-End é para você?", seguido do texto explicativo e mencionando Tracy Chou ou outra profissional relevante.
+
+Títulos marcantes - Cada tópico deve ter um título chamativo.
+
+Exemplos de código - Incluir códigos de exemplo nos tópicos que fizerem sentido.
+
+Incentivo final - Finalizar com um texto motivador, reforçando que aprender Front-End é um processo e que não se deve desistir.
+
+Estilo - Texto acessível, inspirador e motivacional, com linguagem amigável e inclusiva, destacando a presença e conquistas das mulheres na tecnologia.
+
+

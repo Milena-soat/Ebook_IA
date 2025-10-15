@@ -1,0 +1,13 @@
+Capa do ebook - Prompt: Uma capa design fofo de jovem programando em laptop com coração na tela, blusa rosa. 
+Com um balão de código ao lado. 
+Fundo rosa com folhas e estrelas. 
+
+Texto - Elas no Front, subtítulo Um guia para criar o futuro, nome 'Milena'
+
+Eu não gostei tanto da fonte, então acabei cortando em png. 
+
+Icon da Ada Lovelance - Prompt: Me manda uma foto da Ada Lovelance em icon com a cor hexa #FFB6C1. 
+
+Icons Front-end: peguei o png online e pedi para o Gemini mudar a cor em #FFB6C1. 
+
+Imagens dos codigos - Usei o Carbon.

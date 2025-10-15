@@ -1,0 +1,19 @@
+“Elas no Front: um guia para quem quer começar a criar o futuro” tem um nome forte, inspirador e cheio de significado — une perfeitamente o lado técnico com o lado feminino e motivacional do seu ebook.
+
+Então, pra confirmar:
+📘 Título: Elas no Front
+💬 Subtítulo: Um guia para quem quer começar a criar o futuro
+👩‍💻 Autora: Milena
+
+E a estrutura vai ficar assim:
+
+Por que Front-End é para você? — com Tracy Chou
+
+Construindo suas bases com HTML — com Jen Simmons
+
+Estilo e identidade com CSS — com Sara Soueidan
+
+Interatividade com JavaScript — com Sarah Drasner
+
+Continuando sua jornada na tecnologia — com Ada Lovelace
+💡 Curiosidade final
